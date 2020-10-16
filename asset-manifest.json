@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/PrincessJaydeofWarri.github.io/static/css/main.3e96f7f9.chunk.css",
+    "main.js": "/PrincessJaydeofWarri.github.io/static/js/main.5910ab95.chunk.js",
+    "main.js.map": "/PrincessJaydeofWarri.github.io/static/js/main.5910ab95.chunk.js.map",
+    "runtime-main.js": "/PrincessJaydeofWarri.github.io/static/js/runtime-main.a07cb244.js",
+    "runtime-main.js.map": "/PrincessJaydeofWarri.github.io/static/js/runtime-main.a07cb244.js.map",
+    "static/js/2.36e9410b.chunk.js": "/PrincessJaydeofWarri.github.io/static/js/2.36e9410b.chunk.js",
+    "static/js/2.36e9410b.chunk.js.map": "/PrincessJaydeofWarri.github.io/static/js/2.36e9410b.chunk.js.map",
+    "index.html": "/PrincessJaydeofWarri.github.io/index.html",
+    "precache-manifest.b3bfb14b0b591eed3f349eb947e270ea.js": "/PrincessJaydeofWarri.github.io/precache-manifest.b3bfb14b0b591eed3f349eb947e270ea.js",
+    "service-worker.js": "/PrincessJaydeofWarri.github.io/service-worker.js",
+    "static/css/main.3e96f7f9.chunk.css.map": "/PrincessJaydeofWarri.github.io/static/css/main.3e96f7f9.chunk.css.map",
+    "static/js/2.36e9410b.chunk.js.LICENSE.txt": "/PrincessJaydeofWarri.github.io/static/js/2.36e9410b.chunk.js.LICENSE.txt",
+    "static/media/Developherbg.mp4": "/PrincessJaydeofWarri.github.io/static/media/Developherbg.eea87db5.mp4",
+    "static/media/MORTGAGE.jpg": "/PrincessJaydeofWarri.github.io/static/media/MORTGAGE.d9914ac7.jpg",
+    "static/media/dloglow1.png": "/PrincessJaydeofWarri.github.io/static/media/dloglow1.edb1e634.png",
+    "static/media/jatcomp.jpg": "/PrincessJaydeofWarri.github.io/static/media/jatcomp.b353e98e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a07cb244.js",
+    "static/js/2.36e9410b.chunk.js",
+    "static/css/main.3e96f7f9.chunk.css",
+    "static/js/main.5910ab95.chunk.js"
+  ]
+}
