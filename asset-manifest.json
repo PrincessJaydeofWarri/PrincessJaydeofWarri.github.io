@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/PrincessJaydeofWarri.github.io/static/css/main.3e96f7f9.chunk.css",
-    "main.js": "/PrincessJaydeofWarri.github.io/static/js/main.49b2206b.chunk.js",
-    "main.js.map": "/PrincessJaydeofWarri.github.io/static/js/main.49b2206b.chunk.js.map",
+    "main.css": "/PrincessJaydeofWarri.github.io/static/css/main.ee7c4732.chunk.css",
+    "main.js": "/PrincessJaydeofWarri.github.io/static/js/main.29af8a9b.chunk.js",
+    "main.js.map": "/PrincessJaydeofWarri.github.io/static/js/main.29af8a9b.chunk.js.map",
     "runtime-main.js": "/PrincessJaydeofWarri.github.io/static/js/runtime-main.a07cb244.js",
     "runtime-main.js.map": "/PrincessJaydeofWarri.github.io/static/js/runtime-main.a07cb244.js.map",
-    "static/js/2.013cca30.chunk.js": "/PrincessJaydeofWarri.github.io/static/js/2.013cca30.chunk.js",
-    "static/js/2.013cca30.chunk.js.map": "/PrincessJaydeofWarri.github.io/static/js/2.013cca30.chunk.js.map",
+    "static/js/2.505dbafe.chunk.js": "/PrincessJaydeofWarri.github.io/static/js/2.505dbafe.chunk.js",
+    "static/js/2.505dbafe.chunk.js.map": "/PrincessJaydeofWarri.github.io/static/js/2.505dbafe.chunk.js.map",
     "index.html": "/PrincessJaydeofWarri.github.io/index.html",
-    "precache-manifest.c922ae297b11635ce3ee0e9cb15438cc.js": "/PrincessJaydeofWarri.github.io/precache-manifest.c922ae297b11635ce3ee0e9cb15438cc.js",
+    "precache-manifest.caf45e9923c4b7038e34fdf02ed63dc4.js": "/PrincessJaydeofWarri.github.io/precache-manifest.caf45e9923c4b7038e34fdf02ed63dc4.js",
     "service-worker.js": "/PrincessJaydeofWarri.github.io/service-worker.js",
-    "static/css/main.3e96f7f9.chunk.css.map": "/PrincessJaydeofWarri.github.io/static/css/main.3e96f7f9.chunk.css.map",
-    "static/js/2.013cca30.chunk.js.LICENSE.txt": "/PrincessJaydeofWarri.github.io/static/js/2.013cca30.chunk.js.LICENSE.txt",
+    "static/css/main.ee7c4732.chunk.css.map": "/PrincessJaydeofWarri.github.io/static/css/main.ee7c4732.chunk.css.map",
+    "static/js/2.505dbafe.chunk.js.LICENSE.txt": "/PrincessJaydeofWarri.github.io/static/js/2.505dbafe.chunk.js.LICENSE.txt",
     "static/media/Developherbg.mp4": "/PrincessJaydeofWarri.github.io/static/media/Developherbg.eea87db5.mp4",
     "static/media/MORTGAGE.jpg": "/PrincessJaydeofWarri.github.io/static/media/MORTGAGE.d9914ac7.jpg",
     "static/media/dloglow1.png": "/PrincessJaydeofWarri.github.io/static/media/dloglow1.edb1e634.png",
-    "static/media/jatcomp.jpg": "/PrincessJaydeofWarri.github.io/static/media/jatcomp.b353e98e.jpg"
+    "static/media/jatcomp.jpg": "/PrincessJaydeofWarri.github.io/static/media/jatcomp.b353e98e.jpg",
+    "static/media/laptoppic0.jpg": "/PrincessJaydeofWarri.github.io/static/media/laptoppic0.7bfd6932.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.a07cb244.js",
-    "static/js/2.013cca30.chunk.js",
-    "static/css/main.3e96f7f9.chunk.css",
-    "static/js/main.49b2206b.chunk.js"
+    "static/js/2.505dbafe.chunk.js",
+    "static/css/main.ee7c4732.chunk.css",
+    "static/js/main.29af8a9b.chunk.js"
   ]
 }

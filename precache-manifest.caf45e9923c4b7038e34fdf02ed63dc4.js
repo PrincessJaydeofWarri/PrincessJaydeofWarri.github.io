@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4ac086057a83cfdd538a553a01fc2da8",
+    "revision": "1969b6c8430a3c8aa69df5910da726d8",
     "url": "/PrincessJaydeofWarri.github.io/index.html"
   },
   {
-    "revision": "0af7262afc817f042925",
-    "url": "/PrincessJaydeofWarri.github.io/static/css/main.3e96f7f9.chunk.css"
+    "revision": "318c66e18277215a2e0a",
+    "url": "/PrincessJaydeofWarri.github.io/static/css/main.ee7c4732.chunk.css"
   },
   {
-    "revision": "d53ef099507f0b1eefe4",
-    "url": "/PrincessJaydeofWarri.github.io/static/js/2.013cca30.chunk.js"
+    "revision": "4fff6817ade64ce0f1ed",
+    "url": "/PrincessJaydeofWarri.github.io/static/js/2.505dbafe.chunk.js"
   },
   {
     "revision": "ebc5d087fc4c4229c0680561aa363996",
-    "url": "/PrincessJaydeofWarri.github.io/static/js/2.013cca30.chunk.js.LICENSE.txt"
+    "url": "/PrincessJaydeofWarri.github.io/static/js/2.505dbafe.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0af7262afc817f042925",
-    "url": "/PrincessJaydeofWarri.github.io/static/js/main.49b2206b.chunk.js"
+    "revision": "318c66e18277215a2e0a",
+    "url": "/PrincessJaydeofWarri.github.io/static/js/main.29af8a9b.chunk.js"
   },
   {
     "revision": "91350b8174a1727248b8",
@@ -38,5 +38,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b353e98e8c18a5c076c535ba3babfa01",
     "url": "/PrincessJaydeofWarri.github.io/static/media/jatcomp.b353e98e.jpg"
+  },
+  {
+    "revision": "7bfd6932633442e54ed20b05d4392da0",
+    "url": "/PrincessJaydeofWarri.github.io/static/media/laptoppic0.7bfd6932.jpg"
   }
 ]);
