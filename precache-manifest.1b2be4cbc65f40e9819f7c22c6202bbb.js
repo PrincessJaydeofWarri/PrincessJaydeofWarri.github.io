@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1969b6c8430a3c8aa69df5910da726d8",
+    "revision": "cbacfea6c365071d277a8c331102f2aa",
     "url": "/PrincessJaydeofWarri.github.io/index.html"
   },
   {
-    "revision": "318c66e18277215a2e0a",
+    "revision": "19b3530b673c8408aa85",
     "url": "/PrincessJaydeofWarri.github.io/static/css/main.ee7c4732.chunk.css"
   },
   {
-    "revision": "4fff6817ade64ce0f1ed",
-    "url": "/PrincessJaydeofWarri.github.io/static/js/2.505dbafe.chunk.js"
+    "revision": "750e2b8be0304e053328",
+    "url": "/PrincessJaydeofWarri.github.io/static/js/2.d93657d4.chunk.js"
   },
   {
     "revision": "ebc5d087fc4c4229c0680561aa363996",
-    "url": "/PrincessJaydeofWarri.github.io/static/js/2.505dbafe.chunk.js.LICENSE.txt"
+    "url": "/PrincessJaydeofWarri.github.io/static/js/2.d93657d4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "318c66e18277215a2e0a",
-    "url": "/PrincessJaydeofWarri.github.io/static/js/main.29af8a9b.chunk.js"
+    "revision": "19b3530b673c8408aa85",
+    "url": "/PrincessJaydeofWarri.github.io/static/js/main.5c03c14d.chunk.js"
   },
   {
     "revision": "91350b8174a1727248b8",
