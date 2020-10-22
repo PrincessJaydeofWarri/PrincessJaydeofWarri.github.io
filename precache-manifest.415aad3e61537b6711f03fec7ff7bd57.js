@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ca1bd7e9b480b255802abecf519c333d",
+    "revision": "339ad9ea700508b32c2ca118027ffb04",
     "url": "/PrincessJaydeofWarri.github.io/index.html"
   },
   {
-    "revision": "f442cb772db47481f6d1",
+    "revision": "632690fc6728fd5fed0d",
     "url": "/PrincessJaydeofWarri.github.io/static/css/main.ee7c4732.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PrincessJaydeofWarri.github.io/static/js/2.505dbafe.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f442cb772db47481f6d1",
-    "url": "/PrincessJaydeofWarri.github.io/static/js/main.7eac8d09.chunk.js"
+    "revision": "632690fc6728fd5fed0d",
+    "url": "/PrincessJaydeofWarri.github.io/static/js/main.a014860f.chunk.js"
   },
   {
     "revision": "91350b8174a1727248b8",
