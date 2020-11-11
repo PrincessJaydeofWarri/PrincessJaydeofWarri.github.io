@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/PrincessJaydeofWarri.github.io/precache-manifest.b98cb1ce695d11996e22c06a6512f1ec.js"
+  "/PrincessJaydeofWarri.github.io/precache-manifest.3f0bbad981adeedb28a7402f9e516a5b.js"
 );
 
 self.addEventListener('message', (event) => {

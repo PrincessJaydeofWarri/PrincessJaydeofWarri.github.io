@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/PrincessJaydeofWarri.github.io/static/css/main.ee7c4732.chunk.css",
-    "main.js": "/PrincessJaydeofWarri.github.io/static/js/main.e6b5277a.chunk.js",
-    "main.js.map": "/PrincessJaydeofWarri.github.io/static/js/main.e6b5277a.chunk.js.map",
+    "main.css": "/PrincessJaydeofWarri.github.io/static/css/main.21947d24.chunk.css",
+    "main.js": "/PrincessJaydeofWarri.github.io/static/js/main.6d35e5ca.chunk.js",
+    "main.js.map": "/PrincessJaydeofWarri.github.io/static/js/main.6d35e5ca.chunk.js.map",
     "runtime-main.js": "/PrincessJaydeofWarri.github.io/static/js/runtime-main.a07cb244.js",
     "runtime-main.js.map": "/PrincessJaydeofWarri.github.io/static/js/runtime-main.a07cb244.js.map",
     "static/js/2.505dbafe.chunk.js": "/PrincessJaydeofWarri.github.io/static/js/2.505dbafe.chunk.js",
     "static/js/2.505dbafe.chunk.js.map": "/PrincessJaydeofWarri.github.io/static/js/2.505dbafe.chunk.js.map",
     "index.html": "/PrincessJaydeofWarri.github.io/index.html",
-    "precache-manifest.b98cb1ce695d11996e22c06a6512f1ec.js": "/PrincessJaydeofWarri.github.io/precache-manifest.b98cb1ce695d11996e22c06a6512f1ec.js",
+    "precache-manifest.3f0bbad981adeedb28a7402f9e516a5b.js": "/PrincessJaydeofWarri.github.io/precache-manifest.3f0bbad981adeedb28a7402f9e516a5b.js",
     "service-worker.js": "/PrincessJaydeofWarri.github.io/service-worker.js",
-    "static/css/main.ee7c4732.chunk.css.map": "/PrincessJaydeofWarri.github.io/static/css/main.ee7c4732.chunk.css.map",
+    "static/css/main.21947d24.chunk.css.map": "/PrincessJaydeofWarri.github.io/static/css/main.21947d24.chunk.css.map",
     "static/js/2.505dbafe.chunk.js.LICENSE.txt": "/PrincessJaydeofWarri.github.io/static/js/2.505dbafe.chunk.js.LICENSE.txt",
     "static/media/Developherbg.mp4": "/PrincessJaydeofWarri.github.io/static/media/Developherbg.eea87db5.mp4",
     "static/media/MORTGAGE.jpg": "/PrincessJaydeofWarri.github.io/static/media/MORTGAGE.d9914ac7.jpg",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.a07cb244.js",
     "static/js/2.505dbafe.chunk.js",
-    "static/css/main.ee7c4732.chunk.css",
-    "static/js/main.e6b5277a.chunk.js"
+    "static/css/main.21947d24.chunk.css",
+    "static/js/main.6d35e5ca.chunk.js"
   ]
 }
