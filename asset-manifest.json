@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/PrincessJaydeofWarri.github.io/static/css/main.21947d24.chunk.css",
-    "main.js": "/PrincessJaydeofWarri.github.io/static/js/main.e7694d22.chunk.js",
-    "main.js.map": "/PrincessJaydeofWarri.github.io/static/js/main.e7694d22.chunk.js.map",
+    "main.js": "/PrincessJaydeofWarri.github.io/static/js/main.253fadad.chunk.js",
+    "main.js.map": "/PrincessJaydeofWarri.github.io/static/js/main.253fadad.chunk.js.map",
     "runtime-main.js": "/PrincessJaydeofWarri.github.io/static/js/runtime-main.a07cb244.js",
     "runtime-main.js.map": "/PrincessJaydeofWarri.github.io/static/js/runtime-main.a07cb244.js.map",
     "static/js/2.1cf06905.chunk.js": "/PrincessJaydeofWarri.github.io/static/js/2.1cf06905.chunk.js",
     "static/js/2.1cf06905.chunk.js.map": "/PrincessJaydeofWarri.github.io/static/js/2.1cf06905.chunk.js.map",
     "index.html": "/PrincessJaydeofWarri.github.io/index.html",
-    "precache-manifest.2802b824d1d76111cdaedca882046699.js": "/PrincessJaydeofWarri.github.io/precache-manifest.2802b824d1d76111cdaedca882046699.js",
+    "precache-manifest.70980e97b5dfd7af3188cc2dd9d0b4ad.js": "/PrincessJaydeofWarri.github.io/precache-manifest.70980e97b5dfd7af3188cc2dd9d0b4ad.js",
     "service-worker.js": "/PrincessJaydeofWarri.github.io/service-worker.js",
     "static/css/main.21947d24.chunk.css.map": "/PrincessJaydeofWarri.github.io/static/css/main.21947d24.chunk.css.map",
     "static/js/2.1cf06905.chunk.js.LICENSE.txt": "/PrincessJaydeofWarri.github.io/static/js/2.1cf06905.chunk.js.LICENSE.txt",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.a07cb244.js",
     "static/js/2.1cf06905.chunk.js",
     "static/css/main.21947d24.chunk.css",
-    "static/js/main.e7694d22.chunk.js"
+    "static/js/main.253fadad.chunk.js"
   ]
 }
