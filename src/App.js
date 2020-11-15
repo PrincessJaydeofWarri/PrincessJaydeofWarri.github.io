@@ -13,7 +13,6 @@ function App() {
 AOS.init()
 return (
   <>
-<BrowserRouter basename="/PrincessJaydeofWarri.github.io" />
 <Router>
 <Navbar />
 <Switch>
