@@ -1,0 +1,44 @@
+.info h1 {
+  color: #194F92;
+  margin-top: 50px;
+  font-size: 40px;
+  line-height: 50px;
+  letter-spacing: -1.5px;
+  margin-left: 10px;
+  margin-right: auto;
+  padding-left: 10px;
+  text-align: left;
+  font-weight: bold;
+  font-family: Muli, sans-serif;
+
+}
+.info h3{
+  margin-top: 50px;
+  font-family: Muli, sans-serif;
+  font-size: 24px;
+  line-height: 36px;
+  letter-spacing: -.5px;
+  font-weight: 300;
+  margin-left: 10px;
+  margin-right: auto;
+  padding-left: 10px;
+  width: 75%;
+  margin-bottom: 50px;
+  color: #194F92;
+}
+
+.info p {
+  color: #194F92;
+  margin-top: 50px;
+  font-family: Muli, sans-serif;
+  font-style: italic;
+  font-size: 24px;
+  line-height: 36px;
+  letter-spacing: -.5px;
+  font-weight: 500;
+  margin-left: 10px;
+  margin-right: auto;
+  padding-left: 10px;
+  width: 75%;
+  margin-bottom: 50px;
+}

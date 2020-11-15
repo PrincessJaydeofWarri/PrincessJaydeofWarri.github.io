@@ -1,0 +1,102 @@
+
+.contact-details{
+background-color:  #f10e9a;
+padding-top: 200px;
+padding-bottom: 150px;
+
+}
+
+.contact-details h1{
+  font-size: 60px;
+  line-height: 50px;
+  letter-spacing: -1.5px;
+  margin-left: 10px;
+  margin-right: auto;
+  padding-left: 10px;
+  text-align: left;
+  font-weight: bold;
+  color: white;
+  font-family: Muli, sans-serif;
+
+}
+.contact-details p {
+  margin-top: 10px;
+  font-family: Muli, sans-serif;
+  color: white;
+  font-size: 30px;
+  line-height: 36px;
+  letter-spacing: -.5px;
+  font-weight: 300;
+  margin-left: 10px;
+  margin-right: auto;
+  padding-left: 10px;
+
+
+}
+.contact-container{
+  background-color: #fffafa;
+}
+
+.contact-column {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  height: 300px;
+}
+
+
+.contact-row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.contact-column i{
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+
+}
+.contact-column h2{
+  font-size: 1rem;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 600;
+  margin-bottom: 10px;
+  letter-spacing: .18em;
+  line-height: 40px;
+  font-family: Muli,sans-serif;
+
+
+}
+.contact-column a {
+  font-size: 1rem;
+  text-decoration: none;
+  letter-spacing: .18em;
+  color: black;
+}
+.contact-column p {
+  text-align: center;
+  position: relative;
+  font-size: 1rem;
+  text-decoration: none;
+  letter-spacing: .18em;
+
+}
+@media screen and (max-width: 900px) {
+  .contact-column  {
+    width: 75%;
+
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .contact-column  {
+    width: 100%;
+    float: left;
+    padding: 10px;
+
+  }
+
+
+}
