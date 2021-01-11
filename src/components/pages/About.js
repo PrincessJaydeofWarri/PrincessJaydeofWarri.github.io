@@ -24,9 +24,8 @@ export default function About() {
     <div className='about-row'>
       <div className='about-column'>
       <h2 data-aos="zoom-in-right">Background</h2>
-      <p data-aos="fade-up" data-aos-delay="100" data-aos-once="true" data-aos-easing="linear">I am self taught using books and online courses. I have attained a Nandodegree in Programming from Udacity.
-        Although I primarilly work as a journalist I am very determined to make it in this industry.
-        I have a passion for UI effects, animations and creating intuitive, dynamic user experiences.
+      <p data-aos="fade-up" data-aos-delay="100" data-aos-once="true" data-aos-easing="linear">
+        I am self taught using books and coding bootcamps. I have attained a Nandodegree in Programming from Udacity.
         I also have trainee experience in manual testing which has enabled me to foster the right mix of
         theory and practice in my projects.</p>
       </div>
