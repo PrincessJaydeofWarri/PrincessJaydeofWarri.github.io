@@ -51,6 +51,7 @@ export default function About() {
           <li>Node Js</li>
           <li>Selenium Webdriver</li>
           <li>Cucumber</li>
+          <li>Cypress</li>
         </ul>
       </div>
       <div className='about-column'>
