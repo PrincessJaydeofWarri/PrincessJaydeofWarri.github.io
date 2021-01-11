@@ -14,9 +14,8 @@
 .navbar-logo img{
   height: 50px;
   width: 50px;
-
   position: absolute;
-  margin-top: 10px;
+  margin-top: 5px;
   left: 2%
 }
 .navbar-container {
@@ -120,11 +119,8 @@
     border-radius: 0;
   }
 
-  .navbar-logo {
+  .navbar-logo img {
     position: absolute;
-    top: 20;
-    left: 0;
-    transform: translate(-100%, 60%);
   }
 
 

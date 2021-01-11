@@ -45,7 +45,7 @@ function Footer() {
                 <img src={require("./images/dloglow1.png")} alt="jayde-logo"/>
               </Link>
             </div>
-            <small className='website-rights'>© Devlopherj 2020 | All Rights Reserved</small>
+            <small className='website-rights'>© Developherj 2020 | All Rights Reserved</small>
               <div className='social-icons'>
                 <Link className='social-icon-link instagram'
                   to={"//www.instagram.com/developherj/"}

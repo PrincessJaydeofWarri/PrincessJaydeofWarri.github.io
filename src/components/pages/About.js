@@ -34,9 +34,9 @@ export default function About() {
       <h2 data-aos="zoom-in-right" >Languages</h2>
       <p data-aos="fade-up" data-aos-delay="100" data-aos-once="true" data-aos-easing="linear">I have been learning the following programming languages.</p>
         <ul data-aos="fade-left" data-aos-delay="100" data-aos-once="true" data-aos-easing="linear">
-          <li > Python </li>
+          <li> Python </li>
           <li> HTML</li>
-          <li > CSS5</li>
+          <li> CSS</li>
           <li> Javascript</li>
           <li> Java</li>
           <li> Bashscript</li>
