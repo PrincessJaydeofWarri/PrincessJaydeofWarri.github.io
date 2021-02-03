@@ -1,6 +1,6 @@
 
 .navbar {
-  background: #2F2FA2;
+  background: white;
   height: 80px;
   display: flex;
   justify-content: center;
@@ -56,7 +56,7 @@
 }
 
 .nav-links {
-  color: #FFF;
+  color: #08104d;
   display: flex;
   align-items: center;
   text-decoration: none;
@@ -65,12 +65,12 @@
 }
 
 .nav-links:hover {
-  border-bottom: 4px solid #fff;
+  border-bottom: 4px solid #f10e9a;
   transition: all 0.2s ease-out;
 }
 
 .fa-bars {
-  color: #fff;
+  color: #08104d;
 }
 
 .nav-links-mobile {
@@ -136,7 +136,7 @@
   }
 
   .fa-times {
-    color: #fff;
+    color: #08104d;
     font-size: 2rem;
   }
 
