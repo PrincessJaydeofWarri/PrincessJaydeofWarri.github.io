@@ -1,9 +1,8 @@
 import React from 'react'
 import {Button} from './Button'
 import {Link} from 'react-router-dom'
-
 import './Header.css'
-import Backgrounde from './images/background.png'
+import Background from './images/background.png'
 
 
 
@@ -11,8 +10,7 @@ import Backgrounde from './images/background.png'
 const Header = () => {
   return(
     <div className='header-container'>
-
-    <img src={Backgrounde} alt="jayde-logo"/>
+    <img src={Background} alt="jayde-logo"/>
     <h1 data-aos="fade-down" data-aos-delay="100">Hi, I'm Jayde </h1>
     <p data-aos="fade-up" data-aos-delay="100">A freelance Web Developer.</p>
     <div className='head-btns'>

@@ -9,7 +9,7 @@ export default function Contact() {
   return <div>
     <div className='contact-details'>
       <h1 data-aos="fade-down" data-aos-delay="100">Lets build something great together</h1>
-      <p data-aos="fade-up" data-aos-delay="100">Please dont hesitate to get in touch using my details below.</p>
+      <p data-aos="fade-up" data-aos-delay="100">Please don't hesitate to get in touch using my details below.</p>
     </div>
     <div className='contact-container'>
     <div className='contact-row'>
