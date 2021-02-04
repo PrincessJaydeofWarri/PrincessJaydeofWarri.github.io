@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import React from 'react';
 import '../images/jatcomp.jpg'
 import './About.css'
 import {Link} from 'react-router-dom'

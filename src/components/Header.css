@@ -13,7 +13,6 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  box-shadow: inset 0 0 0 1000px rgba(10,14,82,0.2);
   object-fit: contain;
 }
 
@@ -58,6 +57,7 @@
 
   .header-container  p {
     font-size: 30px;
+    margin-left: 65px;
   }
 
   .btn-mobile {
@@ -68,17 +68,4 @@
   .btn {
     width: 100%;
   }
-}
-
-
-
-@media only screen and (max-width: 480px) {
-  .header-container  h1 {
-    font-size: 40px;
-    margin-top: -80px;
-}
-.header-container  p {
-  font-size: 30px;
-  margin-left: 50px;
-}
 }

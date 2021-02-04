@@ -1,8 +1,7 @@
-import React, {useState} from 'react';
+import React from 'react';
 import '../../App.css'
-import { Link } from 'react-router-dom';
 import './Contact.css'
-import Head from '../images/jatcomp.jpg'
+
 
 
 
@@ -30,7 +29,7 @@ export default function Contact() {
       <div className='contact-column'>
         <i className="fab fa-instagram" data-aos="flip-right" data-aos-delay="100"/>
         <h2>Instagram</h2>
-        <a href="https://www.instagram.com/developherj/" target="_blank"><p data-aos="fade-left" data-aos-delay="100">Developherj</p>
+        <a href="https://www.instagram.com/developherj/" target="_blank" rel="noopener noreferrer"><p data-aos="fade-left" data-aos-delay="100">Developherj</p>
         </a>
     </div>
     </div>
