@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/static/css/main.aa060c2a.chunk.css",
-    "main.js": "/static/js/main.4795e2ee.chunk.js",
-    "main.js.map": "/static/js/main.4795e2ee.chunk.js.map",
+    "main.js": "/static/js/main.7923acfb.chunk.js",
+    "main.js.map": "/static/js/main.7923acfb.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.57e54692.js",
     "runtime-main.js.map": "/static/js/runtime-main.57e54692.js.map",
     "static/js/2.8f9f97ae.chunk.js": "/static/js/2.8f9f97ae.chunk.js",
     "static/js/2.8f9f97ae.chunk.js.map": "/static/js/2.8f9f97ae.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.902fd0532092a299e6708b809308b539.js": "/precache-manifest.902fd0532092a299e6708b809308b539.js",
+    "precache-manifest.1a79e217450eb13397330c12195ac99b.js": "/precache-manifest.1a79e217450eb13397330c12195ac99b.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.aa060c2a.chunk.css.map": "/static/css/main.aa060c2a.chunk.css.map",
     "static/js/2.8f9f97ae.chunk.js.LICENSE.txt": "/static/js/2.8f9f97ae.chunk.js.LICENSE.txt",
     "static/media/MORTGAGE.jpg": "/static/media/MORTGAGE.d9914ac7.jpg",
     "static/media/background.png": "/static/media/background.50f3c522.png",
+    "static/media/dhjwp.png": "/static/media/dhjwp.4b23d48a.png",
     "static/media/dloglow1.png": "/static/media/dloglow1.edb1e634.png",
-    "static/media/jatcomp.jpg": "/static/media/jatcomp.b353e98e.jpg",
-    "static/media/laptoppic0.jpg": "/static/media/laptoppic0.7bfd6932.jpg"
+    "static/media/jatcomp.jpg": "/static/media/jatcomp.b353e98e.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.57e54692.js",
     "static/js/2.8f9f97ae.chunk.js",
     "static/css/main.aa060c2a.chunk.css",
-    "static/js/main.4795e2ee.chunk.js"
+    "static/js/main.7923acfb.chunk.js"
   ]
 }
