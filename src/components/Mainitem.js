@@ -7,7 +7,7 @@ function MainItem(props) {
     <li className='main__item'>
       <Link className='main__item__link' to={props.path}>
         <figure className='main__item__pic-wrap' data-category={props.label}>
-          <img src={require('./images/laptoppic0.jpg')} alt="Python computer" className='main__item__img' id="calculator"/>
+          <img src={require('./images/dhjwp.png')} alt="Python computer" className='main__item__img' id="calculator"/>
         </figure>
         <div className='main__item__info'>
           <h5 className='main__item__text'>{props.text}</h5>

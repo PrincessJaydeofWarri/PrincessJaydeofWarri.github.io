@@ -10,7 +10,7 @@ function Main() {
         <div className='main__wrapper'>
           <ul className='main__items'>
           <MainItem
-          src="/images/laptopic.jpg"
+          src="/images/dhjwp.png"
           text="Repsonsive website I put together using Javascript and React"
           label='developherj.com'
           path='./work'
