@@ -1,0 +1,20 @@
+.header-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  object-fit: contain;
+}
+
+.header-container h1 {
+  color: #fff;
+  font-size: 100px;
+  font-family: Muli, sans-serif;
+}
+
+.update-container p {
+  margin-top: 8px;
+  color: #fff;
+  font-size: 32px;
+  font-family: Muli, sans-serif;
+}
