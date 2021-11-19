@@ -18,7 +18,18 @@
   font-size: 32px;
   font-family: Muli, sans-serif;
 }
-
+.logo {
+  height: 80px;
+  display: flex;
+  font-size: 1.2rem;
+  position: sticky;
+  top: 0;
+  z-index: 999;
+  background-color: transparent;
+}
+.logo img {
+  width: auto;
+}
 @media screen and (max-width: 960px) {
   .header-container img {
     object-fit: cover;
