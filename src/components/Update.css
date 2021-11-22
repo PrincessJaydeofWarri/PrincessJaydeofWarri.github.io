@@ -25,6 +25,7 @@
   position: sticky;
   top: 0;
   z-index: 999;
+  background: transparent;
   background-color: transparent;
 }
 .logo img {
@@ -42,6 +43,21 @@
     font-size: 70px;
     margin-top: -150px;
   }
+  .logo {
+    height: 30px;
+    display: flex;
+    font-size: 1.2rem;
+    position: sticky;
+    top: 0;
+    z-index: 999;
+    background: transparent;
+    background-color: transparent;
+  }
+  .logo img {
+    align-items: center;
+    position: absolute;
+    width: 100px;
+  }
 }
 
 @media screen and (max-width: 768px) {
@@ -53,5 +69,8 @@
   .header-container p {
     font-size: 30px;
     margin-right: 50px;
+  }
+  .logo img {
+    position: absolute;
   }
 }

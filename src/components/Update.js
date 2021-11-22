@@ -1,7 +1,7 @@
 import React from "react";
 import "./Update.css";
 import Background from "./images/background.png";
-import logo from "./images/Developherj_logo.jpg";
+import logo from "./images/Developherj_logo.png";
 
 const Update = () => {
   return (
