@@ -4,17 +4,18 @@
   justify-content: center;
   align-items: center;
   object-fit: contain;
+  background-color: #f2ebe9;
 }
 
 .header-container h1 {
-  color: #fff;
+  color: #08104d;
   font-size: 100px;
   font-family: Muli, sans-serif;
 }
 
-.update-container p {
+.header-container p {
   margin-top: 8px;
-  color: #fff;
+  color: #08104d;
   font-size: 32px;
   font-family: Muli, sans-serif;
 }
@@ -25,8 +26,7 @@
   position: sticky;
   top: 0;
   z-index: 999;
-  background: transparent;
-  background-color: transparent;
+  background-color: #f2ebe9;
 }
 .logo img {
   width: auto;
